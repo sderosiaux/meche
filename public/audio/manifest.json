@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "assets": {
+    "step": {
+      "kind": "sfx",
+      "files": [
+        "step-1.mp3",
+        "step-2.mp3",
+        "step-3.mp3"
+      ],
+      "durationMs": [
+        110,
+        110,
+        110
+      ]
+    },
+    "place": {
+      "kind": "sfx",
+      "files": [
+        "place-1.mp3",
+        "place-2.mp3"
+      ],
+      "durationMs": [
+        320,
+        320
+      ]
+    },
+    "unroll": {
+      "kind": "sfx",
+      "files": [
+        "unroll-1.mp3",
+        "unroll-2.mp3"
+      ],
+      "durationMs": [
+        200,
+        200
+      ]
+    },
+    "rewind": {
+      "kind": "sfx",
+      "files": [
+        "rewind.mp3"
+      ],
+      "durationMs": [
+        240
+      ]
+    },
+    "spool-warning": {
+      "kind": "sfx",
+      "files": [
+        "spool-warning.mp3"
+      ],
+      "durationMs": [
+        450
+      ]
+    },
+    "denied": {
+      "kind": "sfx",
+      "files": [
+        "denied.mp3"
+      ],
+      "durationMs": [
+        90
+      ]
+    },
+    "strike": {
+      "kind": "sfx",
+      "files": [
+        "strike-1.mp3",
+        "strike-2.mp3"
+      ],
+      "durationMs": [
+        700,
+        700
+      ]
+    },
+    "sizzle": {
+      "kind": "loop",
+      "files": [
+        "sizzle.mp3"
+      ],
+      "durationMs": [
+        2430
+      ],
+      "loopStartMs": 100,
+      "loopEndMs": 2330
+    },
+    "knot": {
+      "kind": "sfx",
+      "files": [
+        "knot-1.mp3",
+        "knot-2.mp3"
+      ],
+      "durationMs": [
+        200,
+        200
+      ]
+    },
+    "hand-burnt": {
+      "kind": "sfx",
+      "files": [
+        "hand-burnt.mp3"
+      ],
+      "durationMs": [
+        300
+      ]
+    },
+    "wobble": {
+      "kind": "sfx",
+      "files": [
+        "wobble.mp3"
+      ],
+      "durationMs": [
+        650
+      ]
+    },
+    "boom-small": {
+      "kind": "sfx",
+      "files": [
+        "boom-small-1.mp3",
+        "boom-small-2.mp3"
+      ],
+      "durationMs": [
+        1100,
+        1100
+      ]
+    },
+    "boom-big": {
+      "kind": "sfx",
+      "files": [
+        "boom-big.mp3"
+      ],
+      "durationMs": [
+        1500
+      ]
+    },
+    "crate": {
+      "kind": "sfx",
+      "files": [
+        "crate-1.mp3",
+        "crate-2.mp3"
+      ],
+      "durationMs": [
+        692,
+        688
+      ]
+    },
+    "death": {
+      "kind": "sfx",
+      "files": [
+        "death.mp3"
+      ],
+      "durationMs": [
+        1300
+      ]
+    },
+    "count-tick": {
+      "kind": "sfx",
+      "files": [
+        "count-tick.mp3"
+      ],
+      "durationMs": [
+        220
+      ]
+    },
+    "count-go": {
+      "kind": "sfx",
+      "files": [
+        "count-go.mp3"
+      ],
+      "durationMs": [
+        900
+      ]
+    },
+    "round-win": {
+      "kind": "sfx",
+      "files": [
+        "round-win.mp3"
+      ],
+      "durationMs": [
+        1400
+      ]
+    },
+    "round-draw": {
+      "kind": "sfx",
+      "files": [
+        "round-draw.mp3"
+      ],
+      "durationMs": [
+        1400
+      ]
+    },
+    "match-win": {
+      "kind": "sfx",
+      "files": [
+        "match-win.mp3"
+      ],
+      "durationMs": [
+        3000
+      ]
+    },
+    "ui-move": {
+      "kind": "sfx",
+      "files": [
+        "ui-move.mp3"
+      ],
+      "durationMs": [
+        80
+      ]
+    },
+    "ui-select": {
+      "kind": "sfx",
+      "files": [
+        "ui-select.mp3"
+      ],
+      "durationMs": [
+        420
+      ]
+    },
+    "ui-back": {
+      "kind": "sfx",
+      "files": [
+        "ui-back.mp3"
+      ],
+      "durationMs": [
+        360
+      ]
+    },
+    "music-menu": {
+      "kind": "music",
+      "files": [
+        "music-menu.mp3"
+      ],
+      "durationMs": [
+        38600
+      ],
+      "bpm": 100,
+      "bars": 16,
+      "loopStartMs": 100,
+      "loopEndMs": 38500
+    },
+    "music-match": {
+      "kind": "music",
+      "files": [
+        "music-match.mp3"
+      ],
+      "durationMs": [
+        51629
+      ],
+      "bpm": 112,
+      "bars": 24,
+      "loopStartMs": 100,
+      "loopEndMs": 51528.57142857143
+    },
+    "music-tension": {
+      "kind": "music",
+      "files": [
+        "music-tension.mp3"
+      ],
+      "durationMs": [
+        51629
+      ],
+      "bpm": 112,
+      "bars": 24,
+      "loopStartMs": 100,
+      "loopEndMs": 51528.57142857143
+    }
+  }
+}
